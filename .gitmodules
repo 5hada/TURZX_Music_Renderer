@@ -4,3 +4,6 @@
 [submodule "media-control"]
 	path = media-control
 	url = https://github.com/ungive/media-control
+[submodule "iTunes-SMTC"]
+	path = iTunes-SMTC
+	url = https://github.com/thewizrd/iTunes-SMTC

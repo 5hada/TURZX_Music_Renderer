@@ -1,0 +1,19 @@
+MODE = 'landscape'
+
+W = 320
+H = 480
+
+PAD_X = 20
+PAD_Y = 20
+
+SPACE_X = 20
+SPACE_Y = 20
+
+THUMB_W = 200
+THUMB_H = 200
+
+TITLE_H = 40
+DETAIL_H = 30
+TIME_W = 60
+TIME_H = 30
+PROGRESS_H = 30
